@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Générateur d'Art</title>
+<style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 50px;
+        }
+        #artCanvas {
+            border: 5px solid #090863;
+            border-radius: 20px;
+            width: 900px;
+            height: 400px;
+            position: relative;
+            margin-top: 100px;
+        }
+        .artPiece {
+            position: absolute;
+        }
+        #generateButton {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: rgb(255, 0, 149);
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="artCanvas"></div>
+<button id="generateButton">Générer une œuvre d'art</button>
+
+<script>
+    const canvas = document.getElementById('artCanvas');
+    const button = document.getElementById('generateButton');
+
+    function generateArtPiece() {
+        const artPiece = document.createElement('div');
+        const size = Math.random() * 50 + 200; // Taille aléatoire entre 20 et 70 pixels
+        const left = Math.random() * (canvas.clientWidth - size);
+        const top = Math.random() * (canvas.clientHeight - size);
+        const shapeType = Math.random() > 0.5 ? 'circle' : 'square';
+
+        artPiece.className = 'artPiece';
+        artPiece.style.width = `${size}px`;
+        artPiece.style.height = `${size}px`;
+        artPiece.style.left = `${left}px`;
+        artPiece.style.top = `${top}px`;
+        artPiece.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
+
+       
+
+        canvas.appendChild(artPiece);
+    }
+
+    button.addEventListener('click', generateArtPiece);
+</script>
+
+</body>
+</html>
