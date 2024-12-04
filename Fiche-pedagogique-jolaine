@@ -30,7 +30,7 @@
 
 **INSTALLATION ET MISE EN ESPACE** 11
 
-**PRÉSENTATION ET ARGUMENTATION** 12
+**PRÉSENTATION ET ARGUMENTATION** 11
 
 
 
@@ -40,8 +40,9 @@
 
 ### Sujet de Projet
 
-- **Titre du projet :**  Peinture Génératives 
-- **Description du projet (environ 150 mots) :** Galerie d'art en VR qui possède des peintures générés par des IA, 
+- **Titre du projet :**  Galerie Vr d'images générer
+- **Description du projet (environ 150 mots) :Mon projet est une galerie virtuelle créée avec Blender et Unity, composée d’œuvres générées grâce à l’intelligence artificielle, notamment via MidJourney. À travers ce travail, j’explore le style des artistes, l’utilisation des couleurs et les formats pour interroger les capacités créatives de l’IA. Peut-elle produire de véritables œuvres d’art ? Ce projet soulève aussi la question des droits d’auteur dans un contexte où la création résulte d’algorithmes et de prompts.  
+  Je me positionne comme artiste, car c’est moi qui façonne ces œuvres. Mes choix de prompts, la sélection des artistes et le tri des images générées sont autant de décisions créatives qui reflètent ma vision. À travers cette galerie, je souhaite offrir une réflexion sur les outils de l’IA, leur potentiel, et leur place dans le monde artistique tout en redéfinissant les frontières de la création.
 
 ### Thématiques de Recherche
 
@@ -50,8 +51,8 @@
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**   
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) : Blender, Unity, code javascript ?, Midjourney, Leornardo.ia
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter : Apprendre les bases de Unity, et 
 
 ## Références Artistiques
 
