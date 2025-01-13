@@ -1,8 +1,8 @@
-Recherche de réferences d'artistes et d'oeuvres.
+***Recherche de réferences d'artistes et d'oeuvres.***
 
 Lien Notion : https://www.notion.so/Liste-des-artistes-oeuvres-13c7c2d2120a803a946dd040913523de?pvs=4
 
-impressinisme/ surréalisme / ( chercher les mouvements )
+impressinisme/ surréalisme / classiscime
 
 ---
 
@@ -43,11 +43,11 @@ Il s'immerge pleinement dans une confrontation physique avec la toile et le papi
     
     - Images
         
-        ![image (2)](https://github.com/user-attachments/assets/72302d3d-368f-4303-9d37-378a58a377f4)
+       ![image (4)](https://github.com/user-attachments/assets/ce22253a-4427-42b4-a4d8-55bde7a93a6d)
         
         The Last Note, 2020
         
-        ![image (3)](https://github.com/user-attachments/assets/02abe2f3-33ba-4229-9d82-849c5e861e6b)
+        ![image (5)](https://github.com/user-attachments/assets/2d59d27f-02c5-4cf8-bec5-75fb5ed8d718)
         
         Francophone/ Anglophone (school girls), 2023
         
@@ -143,28 +143,21 @@ En explorant la mémoire, la douleur et la perte, Eziefula compose un travail pr
     
     Johnson Eziefula, Last Shuttle Home, 2022, acrylic and charcoal on canvas, 152.4 x 121.9 cm
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/d73e3d48-a808-4979-9bb5-8a394c16945b/image.png)
+    ![image (16)](https://github.com/user-attachments/assets/e838191c-352e-421c-a615-25f97fa8d112)
     
     A Perfect Lie, 2022 acrylic and charcoal on canvas, 114.5 x 91.5 cm
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/98d73ea0-b29c-4dec-9fb8-9ed459a04cf7/image.png)
+    ![image (17)](https://github.com/user-attachments/assets/3d5a2cef-832a-4816-8970-42e276ef9076)
     
     “A Covalent One” 2022.
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/cabdf601-98e4-43e6-ac41-9fae14a87bf0/image.png)
+    ![image (18)](https://github.com/user-attachments/assets/da3d95cd-58c0-477a-a07f-3a166d11a681)
     
     ### *Ambiguity of Tomorrow*, 2023
     
      Acrylic on canvas 45 × 36 in | 114.3 × 91.4 cm
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/872b3f6e-3505-4b8b-8274-b93ee6e53d55/image.png)
-    
-    “Our Usual Chair” 2023
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/f39ba615-ed23-4d29-9d43-5e4291786a7d/image.png)
-    
-    “Gloria’s Trip to Paris” Mixed-media on Canvas. 2021.
-    
+
+POUR EN SAVOIR PLUS SUR L'ARTISTE :
 
 [Johnson Eziefula](https://maruanimercier.com/artists/125-johnson-eziefula/)
 
