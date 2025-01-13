@@ -23,15 +23,15 @@ Il s'immerge pleinement dans une confrontation physique avec la toile et le papi
     
     Archives
     
-    ![image (3)](https://github.com/user-attachments/assets/4f0ab45b-b7ab-48fb-bda1-2fa8e88bbd06)
+    ![image (2)](https://github.com/user-attachments/assets/72302d3d-368f-4303-9d37-378a58a377f4)
     
     "Faces, that Day, will be radiant " • Al Qiyamah - [75:22]
     
-    ![image (4)](https://github.com/user-attachments/assets/8fe8c1d9-32d3-4de1-94f0-e656470e6f41)
+    ![image (3)](https://github.com/user-attachments/assets/02abe2f3-33ba-4229-9d82-849c5e861e6b)
     
     Cosmogonie, 2023
 
-    ![image (5)](https://github.com/user-attachments/assets/0b1d1955-e574-43a8-bafe-ebdf78d0443f)
+    lien de l'exposition : https://www.sitorsenghor.com/154-contemporary-african-art-fair-josue-comoe-la-mystique-du-corps-2/
 
 1. ***Ludovic Nkoth :***
     
