@@ -24,13 +24,13 @@ Lors de l'AI Day 2022, Elon Musk a dévoilé **Optimus**, deux prototypes de rob
 
 Deux versions ont été présentées : un modèle fonctionnel baptisé "Bumble C", capable de marcher sans câble pour la première fois, et un prototype plus avancé mais encore incapable de se déplacer de manière autonome.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/96c74bc2-4f51-4de7-bc31-3ecb9b8a5c0d/image.png)
+![image (19)](https://github.com/user-attachments/assets/5b953bc1-18d2-445c-a5d9-3dc27dccfee8)
 
 Optimus est équipé d'une batterie de 2,3 kWh, d'un SoC Tesla, et de connexions Wi-Fi et LTE. Ses mains, inspirées de la biologie, sont conçues pour manipuler une variété d'objets.
 
 SoC (System on Chip) est un circuit intégré qui regroupe les principaux composants d'un ordinateur ou d'un système électronique sur une seule puce. Dans le contexte d'Optimus, le SoC Tesla fait référence au processeur central qui gère les fonctions principales du robot.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/7d0ced1d-fdba-4ac2-9522-9db1f14cf176/image.png)
+![image (20)](https://github.com/user-attachments/assets/9cd536df-b738-412c-a230-bbca97259ba7)
 
 Tesla a adapté son logiciel Autopilot pour permettre au robot de reproduire des tâches humaines avec souplesse dans des environnements non structurés. Musk estime que ce projet pourrait à terme surpasser l'importance du secteur automobile pour Tesla.
 
@@ -40,7 +40,7 @@ Cependant, certains experts, cette année, restent toujours sceptiques face aux 
 
 OPTIMUS GENZ 1
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/9f63cdb6-8642-413c-9665-cb1949c52b7d/image.png)
+![image (21)](https://github.com/user-attachments/assets/d67250df-0f7f-4fb3-b985-0044f66148ae)
 
 Lors du **Tesla Investor Day** du 2 mars, Elon Musk a présenté des avancées significatives du robot humanoïde **Optimus.**  Optimus est décrit comme un **robot polyvalent** destiné à accomplir des tâches répétitives, soulageant les humains.
 
