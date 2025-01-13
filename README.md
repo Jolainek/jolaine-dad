@@ -15,24 +15,23 @@ Il s'immerge pleinement dans une confrontation physique avec la toile et le papi
 - Images
     
     
-  ![image](https://github.com/user-attachments/assets/2030f2ed-5860-41a3-9c0f-d12530e0752f)
+    ![image](https://github.com/user-attachments/assets/2030f2ed-5860-41a3-9c0f-d12530e0752f)
     
     MOMENT OF TRUTH, 2020
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/5c0ebf21-d3ce-42e7-b101-52f6766f3dfe/image.png)
+
+    ![image (1)](https://github.com/user-attachments/assets/66e24ccf-8ead-4ff3-a54c-a0470513adb6)g)
     
     Archives
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/f9d8cdf8-7f1b-4b46-bec2-ca3a26f6d0a0/image.png)
+    ![image (3)](https://github.com/user-attachments/assets/4f0ab45b-b7ab-48fb-bda1-2fa8e88bbd06)
     
     "Faces, that Day, will be radiant " • Al Qiyamah - [75:22]
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/da2de66d-049c-4c8a-9572-d68804f61e76/image.png)
+    ![image (4)](https://github.com/user-attachments/assets/8fe8c1d9-32d3-4de1-94f0-e656470e6f41)
     
     Cosmogonie, 2023
-    
 
-[1:54 Contemporary African Art Fair  Josué Comoe, La mystique du corps](https://www.sitorsenghor.com/154-contemporary-african-art-fair-josue-comoe-la-mystique-du-corps-2/)
+    ![image (5)](https://github.com/user-attachments/assets/0b1d1955-e574-43a8-bafe-ebdf78d0443f)
 
 1. ***Ludovic Nkoth :***
     
