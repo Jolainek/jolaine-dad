@@ -46,13 +46,15 @@
 
 ### Thématiques de Recherche
 
-- **Thématiques que vous souhaitez explorer :**   
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** 
+- **Thématiques que vous souhaitez explorer : Ce processus interroge l’authenticité, l’héritage et l’appropriation artistique.
+   
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) : La question de la place de l’Homme noir dans l’art m’a toujours profondément interpellé. Il y a quelques années, j’ai découvert une conférence TED de Titus Kaphar, où il réinterprétait des peintures célèbres du classicisme en remplaçant des figures blanches par des figures noires. Cette démarche m’a poussé à m’interroger : pourquoi les personnes noires ont-elles été si marginalisées et exclues de l’histoire de l’art ? Pourquoi, encore aujourd’hui, une personne noire qui crée est-elle systématiquement qualifiée de peintre "afro", comme si son identité primait sur son art ? Ces questionnements ont été le moteur de ce projet. Cette galerie virtuelle est non seulement une manière de contribuer à réécrire cette histoire, mais aussi un espace pour rassembler et mettre en lumière les artistes, genres et styles qui nourrissent mon propre travail artistique.
+
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) : Blender, Unity, code javascript ?, Midjourney, Leornardo.ia
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter : Apprendre les bases de Unity, et 
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) : Blender, Unity, code javascript , Midjourney, Leornardo.ia
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter : Apprendre les bases de Unity, et approfondir mes connaissance sur Blender.
 
 ## Références Artistiques
 
@@ -62,24 +64,22 @@ En utilisant des peintures déjà réinterprétées comme base, mon intention es
 Ce projet cherche à provoquer une réflexion sur la mémoire collective, l'effacement des identités marginalisées et le pouvoir de l'art en tant qu'outil de réécriture culturelle.   
 
 
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) : Artistes : Harmonia Rosales, Terance Maluleke et Comoe Josué. 
-
-
-
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) : Artistes : Harmonia Rosales, Terance Maluleke et Comoe Josué et Titus  Kaphar.
 
 
 ## Actions
 
 ### Contribution à un Projet d'Autre Étudiant
 
-// Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) : 
+// Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) : J’ai apporté mon aide à plusieurs élèves, que ce soit en les accompagnant dans leur recherche d’idées ou en discutant de nos projets respectifs avec Anne-Sophie ou Bastien. J’ai également soutenu Valérie en prenant des photos de ses essais pour son projet. Par ailleurs, j’ai partagé plusieurs références avec Eda pour son projet sur la culture turcique. Nous avons échangé autour de nos projets, et je lui ai notamment recommandé les compositions calligraphiques d’Emin Barın comme source d’inspiration.
 
 ### **CRÉATION D'UN SUJET DE RECHERCHE**
 // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
+"Le processus de réinterprétation successive des œuvres et son impact sur l’authenticité et l’héritage artistique." "Explorer les implications esthétiques et éthiques de l’utilisation de l’IA dans le processus créatif."
 
 ### Participation à un Sujet de Recherche
 
-// Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? : 
+// Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? : Le projet d’Eda m’intéresse particulièrement, car je ne connais pas encore la culture turcique, et cela représente une belle opportunité d’en apprendre davantage à ce sujet. J’aimerais également découvrir les travaux graphiques réalisés par les artistes turcs et observer comment ils intègrent l’écriture arabe dans leurs créations.
 
 ### Contributions aux ressources
 
@@ -95,16 +95,44 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 - Établissez un planning des étapes clés pour votre projet :
  
-- 29/10/24 : 
--5/11/24:
--12/11/24:
--26/11/24:
--3/12/24:
--10/12/24:
+- 29/10/24 : To do list : - Faire une liste de 6 artistes qui me plaisent 
+                          - faire des recherches pour chacun
+                          - recenser toutes les recherches sur Notion.
 
-06/01/25:
-07/01/25:
-8/01/25 : 
+-5/11/24: To do List :- Continuer mes recherches sur les artistes 
+                      - Commencer à Générer des images à partir de Hermiona et Terence 
+                      -Montrer mes avancement au prof
+
+-12/11/24:           -Continuer de générer des images 
+                     - Faire plusieurs croquis / plan de ma galerie VR
+
+-26/11/24:           - Terminer les images générés 
+                     - Trier les images et selectionner ceux que je vais utiliser 
+                     - Organiser les dossiers/fichers dans mon ordinateurs
+
+-3/12/24:            -Commencer la Galerie VR sur Unity 
+                     - Trouver un moyen de mettre la texture "peinture" sur Blender 
+                    
+
+-10/12/24:           - Faire un essai sur un petit espace sur Unity, essai de lumière, meubles etc
+                     - Prendre des Screens de la progression 
+                     - Monter la progression au prof
+                     - Mettre toute la selection (images générés) sur Unity et Blender 
+
+06/01/25:           - Terminer de Modéliser toute la Galerie VR
+                    - Mettre la GL dans Unity et mettres toute les ouverture et lumière 
+                    - Faire mon texte pour la présentation et des croquis 
+
+07/01/25:           - Refaire uen selection et généré quelques autre images
+                    - Mettre toutes peinture dans Untity et les placé dans la galerie
+                    - Gerer les coliders 
+                    - Essayer de mettre de l'intéraction ( porte qui s'ouvre ou images qui s'aggrandit lorsqu'on clique sur une image )
+                    
+
+8/01/25 :           - Discueter de mon projet avec Eda
+                    -  Imprimer les recherches 
+                    -  Terminer les intéractions 
+                    -  Rendue présentation, s'entrainer !
 
 
 
@@ -113,18 +141,22 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 //Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? : J'ai peur de ne pas avoir de temps pour terminer mon projet. 
 
 
-
-
-
 # Journal de bord
 
-- 29/10/24 : 
--5/11/24:
--12/11/24:
--26/11/24:
--3/12/24:
--10/12/24:
+- 29/10/24 : Je me suis concentrée sur la phase de recherche aujourd’hui. J’ai fait une liste de six artistes qui me plaisent et qui pourraient nourrir mon projet. Ensuite, j’ai approfondi mes recherches pour chacun d’eux, en essayant de comprendre leurs techniques, leurs thématiques et ce qui les rend uniques. J’ai tout recensé dans Notion pour m’y retrouver plus facilement.
 
-06/01/25:
-07/01/25:
-8/01/25 :
+-5/11/24: J’ai poursuivi mes recherches sur les artistes, en me focalisant surtout sur Herminia Rosales et Terence. Après avoir exploré leurs œuvres, j’ai commencé à générer des images en m’inspirant de leurs styles. C’était super intéressant de voir comment mes idées prenaient forme grâce à l’IA. J’ai aussi pris le temps de montrer mes avancées à mon prof et d’échanger sur les prochaines étapes.
+
+-12/11/24: J’ai continué à générer des images pour alimenter mon projet. En parallèle, j’ai travaillé sur plusieurs croquis et plans pour ma galerie VR. J’ai essayé d’imaginer à quoi elle pourrait ressembler : disposition des œuvres, ambiance générale, etc. Cette étape m’a vraiment permis de mieux visualiser le projet.
+
+-26/11/24: Aujourd’hui, j’ai terminé de générer toutes les images nécessaires. Ensuite, je les ai triées et sélectionné celles qui seront utilisées dans la galerie. J’ai aussi organisé tous mes fichiers sur mon ordinateur pour éviter de me perdre dans les prochains jours. Une grosse journée, mais productive !
+
+-3/12/24: C’est le début de la modélisation de ma galerie VR sur Unity ! J’ai commencé à créer les bases de l’espace. Parallèlement, j’ai cherché comment appliquer une texture "peinture" réaliste dans Blender. J’ai trouvé quelques idées qui me serviront pour la suite.
+
+-10/12/24: J’ai fait un premier essai avec un petit espace test sur Unity. J’ai travaillé les lumières, ajouté quelques meubles et essayé de créer une ambiance immersive. J’ai pris des captures d’écran pour suivre ma progression. Ensuite, j’ai intégré mes images générées dans Unity et Blender pour voir comment elles s’intégraient dans l’espace. J'ai aussi pris des photos pour Valerie qui travaillais dans la même salle que moi. 
+
+06/01/25: La galerie VR prend vraiment forme ! J’ai terminé de modéliser tout l’espace et ajouté les ouvertures et les lumières dans Unity. J’ai aussi rédigé un brouillon pour le texte de ma présentation finale et réalisé quelques croquis pour accompagner mes idées.
+
+07/01/25: J’ai refait une sélection d’images pour m’assurer que tout était cohérent. J’ai généré quelques nouvelles images pour compléter le projet. Ensuite, j’ai tout intégré dans Unity et placé chaque peinture dans la galerie. J’ai travaillé sur les colliders et les détails sur Unity ( les textures , lumière etc ) . J'ai aussi tenté de mettre de l'intéraction, j'ai demandé à Valerie de m'aider mais il y avait quelques soucis, j'ai donc abondonné l'idée.
+
+8/01/25 : Dernière journée avant le rendu final ! J’ai discuté de mon projet avec Eda, qui m’a donné de précieux retours. J’ai imprimé toutes mes recherches pour les présenter correctement. Ensuite, j’ai peaufiné les derniers détails sur Unity. Maintenant, il ne reste plus qu’à m’entraîner pour la présentation 
