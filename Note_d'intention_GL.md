@@ -1,0 +1,13 @@
+Mon projet consiste à créer une galerie d'art virtuelle, pensée comme une expérience contemplative et interactive, qui explore les dialogues entre tradition, réinterprétation et création numérique contemporaine.
+
+J'ai choisi comme fil conducteur le travail de l'artiste Herminia Rosales, une figure clé dans la réinterprétation d'œuvres classiques à travers une approche afroféministe et décoloniale. Son art revisite des chefs-d'œuvre iconiques en remplaçant les figures européennes par des figures noires. Par exemple, dans sa version de *La Création d'Adam* de Michel-Ange, deux femmes noires remplacent les personnages originaux. Ce geste artistique, à la fois politique et poétique, met en lumière l'invisibilisation des corps noirs dans l'histoire de l'art occidental.
+
+En utilisant des peintures déjà réinterprétées comme base, mon intention est d’approfondir ce processus de transformation. Ce cycle de réinterprétations successives soulève des questions sur l’authenticité, l’héritage et l’appropriation artistique. À travers ce projet, je cherche à provoquer une réflexion sur la mémoire collective, l’effacement des identités marginalisées et le pouvoir de l’art en tant qu’outil de réécriture culturelle.
+
+Je souhaitais prolonger cette réflexion en réalisant une peinture directement inspirée d’une image générée par l’intelligence artificielle.   l’utilisation de l’IA comme point de départ pour une œuvre physique remet en question les frontières traditionnelles entre l'art numérique et l'art traditionnel. L’IA n’est pas simplement un outil qui génère une image : elle devient une sorte de partenaire créatif qui propose une vision de l’œuvre, souvent imprévisible. En utilisant des peintures déjà réinterprétées comme base, mon intention est d’approfondir ce processus de transformation. Ce cycle de réinterprétations successives soulève des questions sur l’authenticité, l’héritage et l’appropriation artistique.
+
+Si je me suis beaucoup inspirée du travail de Herminia Rosales, ce n’est pas la seule influence. J’ai également expérimenté avec d’autres artistes, comme Comoe Josué, dont la pratique picturale se concentre sur la spiritualité, l’identité et le soi. Je me suis efforcée de créer une ambiance qui correspond à mes propres œuvres, lesquelles sont centrées sur des thématiques comme la spiritualité, l’identité et la religion.
+
+Ce projet, par son utilisation de l'IA et son exploration des réinterprétations d’œuvres classiques, vise à questionner et à redéfinir la place de l’art dans la société contemporaine, tout en honorant des héritages souvent effacés ou ignorés.
+
+Lien vers mon notion : https://www.notion.so/Galerie-virtuelle-et-IA-6820a58779974d57b3f9e2148ef26be5
