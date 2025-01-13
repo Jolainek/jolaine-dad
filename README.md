@@ -43,31 +43,20 @@ Il s'immerge pleinement dans une confrontation physique avec la toile et le papi
     
     - Images
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/5e3a73e3-b581-4db6-b8dc-47d7096e79ea/image.png)
+        ![image (2)](https://github.com/user-attachments/assets/72302d3d-368f-4303-9d37-378a58a377f4)
         
         The Last Note, 2020
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/c793c3e3-5dcf-48e0-b9bc-c953ba5a4c48/image.png)
+        ![image (3)](https://github.com/user-attachments/assets/02abe2f3-33ba-4229-9d82-849c5e861e6b)
         
         Francophone/ Anglophone (school girls), 2023
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/ca9f73d3-5791-434c-9fe8-12fe5c62c541/image.png)
+        ![image (6)](https://github.com/user-attachments/assets/20a7bcfd-4a5f-44a6-b96f-a7a29f855277)
         
         System (Yellow) II, 2023
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/be4aa71f-e76c-4ef6-b86f-5501efef6375/image.png)
-        
-        Becoming, 2023
-        
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/2868d5fe-c67f-4126-b810-e62c23d1ec40/image.png)
-        
-        A day's weight, 2023
-        
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/b8befdea-d16e-49a8-a78a-6e08ae8fd242/image.png)
-        
-        Deep blue, 2023
-        
-    
+    LIEN POUR EN SAVOIR UN PEU PLUS SUR L'ARTISTE :
+   
     [Massimo De Carlo with Ludovic Nkoth at Maison la Roche](https://youtu.be/oPQwW0ES4B8?si=MjeRy8UPpuW99eV5)
     
     [Ludovic Nkoth and Moses Sumney on Faith, Fulfillment, and Finding Home](https://www.interviewmagazine.com/art/ludovic-nkoth-and-moses-sumney-on-faith-fulfillment-and-finding-home?fbclid=PAZXh0bgNhZW0CMTEAAaYZ91FXVds21mTnSdKkfs35muJx_ItslsVQk2U2AGCp8iilVNPbHi3rRVU_aem_Mj2pHVzqTiuzrt9V0BToxQ)
@@ -87,49 +76,50 @@ Il s'immerge pleinement dans une confrontation physique avec la toile et le papi
     
     - Images
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/150eb42b-37ba-493b-acfb-d640e7d39785/image.png)
+        ![image (8)](https://github.com/user-attachments/assets/b075f23b-85db-4ceb-94ac-8f933202e6a4)
         
         Ori, 2022 , 48 x 36 inche
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/07f99102-eb57-46f9-a0f1-224361cf1620/image.png)
+        ![image (9)](https://github.com/user-attachments/assets/5a954563-b0f5-4deb-bcec-4df9269fb741)
         
         “Forbidden Fruit” (2021), 48 x 36 inches
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/04d86510-a8cf-4bd3-b57f-60a4b08606a0/image.png)
+        ![image (10)](https://github.com/user-attachments/assets/b14792b8-22bf-4bfa-bed0-1f381a5d8425)
         
         ### Jeggua Meets Shango, 2021
         
         Oil on Wood Panel, 48" x 36"
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/b8dba6ee-f2b1-4b2a-9742-b3c8f512d4e6/image.png)
+        ![image (11)](https://github.com/user-attachments/assets/4953162e-80fe-47fb-b961-4785c2ad53f3)
         
         ### Beyond the Peonies
         
         Oil on Wood Panel and Canvas 36" x 48"
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/63940c73-5c74-4220-9728-7ea54875d933/image.png)
+        ![image (12)](https://github.com/user-attachments/assets/8adc5701-7ce6-4d87-8616-418fbd784ad5)
         
         ### Crucifixion, 2020
         
         Oil on Wood Panel, 48" x 36"
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/a59b6597-9811-4b21-bc54-99a4f19a4e6e/image.png)
+        ![image (13)](https://github.com/user-attachments/assets/9ab4dbb2-8887-4f52-8746-25624ca240d1)
         
         ### Oya's Betrayal 2019
         
         Oil on wood Panel, 24" x 36"
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/c8abee6b-e8f5-4533-a163-a46be21b7a5c/image.png)
+        ![image (14)](https://github.com/user-attachments/assets/9ef47ab9-0bf9-4a7a-bbfe-158ff669088d)
         
         **Creation of God, 2017**
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e664d7e9-cc57-4da5-9636-c81f7bfdfda9/c62f222f-8f73-40b4-a9ea-9424f05b8557/image.png)
+        ![image (15)](https://github.com/user-attachments/assets/be92b6b2-8686-409b-9a7d-c73966c0819d)
         
         ### Birth of Oshun
         
         Oil on Belgian Linen, 55" x 67"
         
-    
+    POUR EN SAVOIR PLUS SUR L'ARTISTE :
+   
     [Harmonia Rosales](https://www.harmoniarosales.art/?fbclid=PAZXh0bgNhZW0CMTEAAaYzRXryROGJIoyfTTsN24qeXH0SOA9ZVyJphozs5hfQhlrq0eSFZeiLJsU_aem_6UasbvqyaBN7mR8f2GwcGw)
     
     [Harmonia Rosales](https://fr.wikipedia.org/wiki/Harmonia_Rosales)
